@@ -27,7 +27,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-2">
             <span className="text-2xl">🌸</span>
-            <span className="font-bold text-lg text-primary hidden md:inline">Bloomery</span>
+            <span className="font-bold text-lg text-primary hidden md:inline">Bloomist</span>
           </Link>
 
           {/* Desktop Menu */}
